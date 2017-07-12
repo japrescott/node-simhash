@@ -1,6 +1,6 @@
 {
   "name": "node-simhash",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command Line tool that compares two text files using simhash",
   "homepage": "https://github.com/sjhorn/node-simhash",
   "keywords": [
@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sjhorn/node-simhash.git"
+    "url": "git://github.com/japrescott/node-simhash.git"
   },
-  "bugs": "https://github.com/sjhorn/node-simhash/issues",
+  "bugs": "https://github.com/japrescott/node-simhash/issues",
   "engines": {
     "node": "6.2.x"
   },
@@ -24,7 +24,6 @@
   },
   "dependencies": {
     "crc-32": "~0.3.0",
-    "natural": "0.4.0",
     "node-fetch": "^1.5.3",
     "yargs": "^4.7.1"
   },
